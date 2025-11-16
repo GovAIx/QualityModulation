@@ -36,19 +36,19 @@ Code5-LLM zero-shot experiments.ipynb -> Contains a process for zero-shot experi
 
 
 # Main Dependencies
-The code runs in the Python 3.10.13 environment in the format of Jupyter-recognizable ipynb. It contains the output that the code expects.
-[pip install] is used to install dependencies：
-numpy==1.24.4
-pandas==2.0.3
-matplotlib==3.6.2
-scikit-learn==1.1.3
-requests==2.31.0
-scipy==1.12.0
-seaborn==0.13.2
-jieba==0.42.1
-emoji==2.14.1
-urllib3==1.26.15
-hanlp==2.1.1
-liwc==0.5.0
+The code runs in the Python 3.10.13 environment in the format of Jupyter-recognizable ipynb. It contains the output that the code expects.  
+[pip install] is used to install dependencies：  
+numpy==1.24.4  
+pandas==2.0.3  
+matplotlib==3.6.2  
+scikit-learn==1.1.3  
+requests==2.31.0  
+scipy==1.12.0  
+seaborn==0.13.2  
+jieba==0.42.1  
+emoji==2.14.1  
+urllib3==1.26.15  
+hanlp==2.1.1  
+liwc==0.5.0  
 
 
